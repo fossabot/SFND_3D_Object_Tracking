@@ -1,4 +1,6 @@
 # SFND 3D Object Tracking
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSDCND%2FSFND_3D_Object_Tracking.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSDCND%2FSFND_3D_Object_Tracking?ref=badge_shield)
+
 
 Welcome to the final project of the camera course. By completing all the lessons, you now have a solid understanding of keypoint detectors, descriptors, and methods to match them between successive images. Also, you know how to detect objects in an image using the YOLO deep-learning framework. And finally, you know how to associate regions in a camera image with Lidar points in 3D space. Let's take a look at our program schematic to see what we already have accomplished and what's still missing.
 
@@ -33,3 +35,7 @@ In this final project, you will implement the missing parts in the schematic. To
 2. Make a build directory in the top level project directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
 4. Run it: `./3D_object_tracking`.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSDCND%2FSFND_3D_Object_Tracking.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSDCND%2FSFND_3D_Object_Tracking?ref=badge_large)
